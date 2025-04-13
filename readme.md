@@ -1,4 +1,7 @@
-# 🎓 Universe System — Academic Platform Showcase (Closed Source)
+# <p align="center">
+  <img src="media/universe-logo.png" alt="UNIVERSE Logo" width="320"/>
+</p>
+ Universe System — Academic Platform Showcase (Closed Source)
 
 > A modular, secure, and offline-first platform built for universities and academic institutions.  
 > **Developed and tested at the University of Benghazi, Libya enviroment**.  
@@ -19,9 +22,7 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 | 🎬 Topic               | 🎞️ Watch Here | 📌 What You'll See                                |
 |------------------------|----------------|---------------------------------------------------|
 | 🧪 Swagger API Demo    | <a href="https://youtu.be/IWxUstwvTEk" target="_blank"><img src="media/swagger-thumbnail.png" width="320"/></a> | Real-time API testing, JWT auth, RBAC             |
-| 🧠 Architecture Overview | <a href="https://youtu.be/vVDmVi2smUM?si=34-at-fu9_g35baf" target="_blank"><img src="media/architecture-thumbnail.png" width="320"/></a> | C4 architecture, service layers, async flow        |
-
-
+| 🧠 Architecture Overview | <a href="https://youtu.be/vVDmVi2smUM?si=34-at-fu9_g35baf" target="_blank"><img src="media/architecture-thumbnail.png" width="320"/></a> | C4 architecture, service layers, async flow       |
 
 > ⚠️ *Videos are in 2x speed for fast demo. You can slow them down on YouTube if needed.*
 
@@ -82,7 +83,7 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 ## 👤 Author
 
 **Abdulqadir Aldhalia**  
-Computer Science Graduate | Software Engineer | Compatitive programming & Robotics Champion  
+Computer Science Graduate | Software Engineer | Competitive Programming & Robotics Champion  
 📫 [abdulqadir.aldhalia@hotmail.com](mailto:abdulqadir.aldhalia@hotmail.com)  
 🔗 [GitHub](https://github.com/Abdulqadir-Aldhalia)
 
