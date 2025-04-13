@@ -66,7 +66,7 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 
 > The system is built using the **C4 model** with full separation between services and domains.
 
-![System Architecture](docs/universe-architecture.png)
+![System Architecture](media/universe-architecture.png)
 
 ---
 
@@ -82,7 +82,7 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 ## 👤 Author
 
 **Abdulqadir Aldhalia**  
-Computer Science Graduate | Software Engineer | Robotics Champion  
+Computer Science Graduate | Software Engineer | Compatitive programming & Robotics Champion  
 📫 [abdulqadir.aldhalia@hotmail.com](mailto:abdulqadir.aldhalia@hotmail.com)  
 🔗 [GitHub](https://github.com/Abdulqadir-Aldhalia)
 
