@@ -18,8 +18,9 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 
 | 🎬 Topic               | 🎞️ Watch Here                                  | 📌 What You'll See                                |
 |------------------------|------------------------------------------------|---------------------------------------------------|
-| 🧪 Swagger API Demo    | [![Swagger](https://img.youtube.com/vi/IWxUstwvTEk/0.jpg)](https://youtu.be/IWxUstwvTEk) | Real-time API testing, JWT auth, RBAC             |
-| 🧠 Architecture Overview | [![Architecture](https://img.youtube.com/vi/vVDmVi2smUM/0.jpg)](https://youtu.be/vVDmVi2smUM?si=34-at-fu9_g35baf) | C4 architecture, service layers, async flow        |
+| 🧪 Swagger API Demo    | [![Swagger](media/swagger-thumbnail.png)](https://youtu.be/IWxUstwvTEk) | Real-time API testing, JWT auth, RBAC             |
+| 🧠 Architecture Overview | [![Architecture](media/architecture-thumbnail.png)](https://youtu.be/vVDmVi2smUM?si=34-at-fu9_g35baf) | C4 architecture, service layers, async flow        |
+
 
 > ⚠️ *Videos are in 2x speed for fast demo. You can slow them down on YouTube if needed.*
 
