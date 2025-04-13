@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/universe-logo.png" alt="UNIVERSE Logo" width="500"/>
+  <img src="media/universe-logo.png" alt="UNIVERSE Logo" width="300"/>
 </p>
 
 # 🎓 Universe System — Academic Platform Showcase (Closed Source)
