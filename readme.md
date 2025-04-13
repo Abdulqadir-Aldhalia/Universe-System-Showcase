@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="media/universe-logo.png" alt="UNIVERSE Logo" width="500"/>
-</p>
 
-# Universe System — Academic Platform Showcase (Closed Source)
+
+# <p align="center">
+  <img src="media/universe-logo.png" alt="UNIVERSE Logo" width="500"/>
+</p> Universe System — Academic Platform Showcase (Closed Source)
 
 > A modular, secure, and offline-first platform built for universities and academic institutions.  
 > **Developed and tested at the University of Benghazi, Libya enviroment**.  
