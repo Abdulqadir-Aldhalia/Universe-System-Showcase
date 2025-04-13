@@ -1,7 +1,7 @@
 # 🎓 Universe System — Academic Platform Showcase (Closed Source)
 
-> A modular, secure, and offline-first platform built for universities.  
-> **Developed and deployed at the University of Benghazi, Libya**.  
+> A modular, secure, and offline-first platform built for universities and academic institutions.  
+> **Developed and tested at the University of Benghazi, Libya enviroment**.  
 > This is a **showcase only** — source code is private to protect sensitive data and for future commercial potential.
 
 ---
