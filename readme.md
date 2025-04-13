@@ -14,18 +14,26 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 
 ---
 
-## 🎥 Showcase Videos (All in 2x Speed)
+## 🎥 Showcase Videos (2x Speed)
 
-| 🎬 Topic                  | 🔗 Link                         | 📌 What You'll See                      |
-|--------------------------|----------------------------------|------------------------------------------|
-| 🧪 Swagger API Demo      | [Watch Swagger](media/swagger-demo.mp4)     | Real-time API testing, JWT auth, RBAC  |
-<!-- | ⚡ Fast UI Walkthrough    | [Watch Demo](docs/fast-demo.mp4)         | Dashboards, GPA engine, LMS access     | -->
-| 🧠 C4 Architecture View   | [Watch Architecture](media/architecture-overview.mp4) | Context + container overview + async flow |
+| 🎬 Topic               | 🎞️ Watch Here                                  | 📌 What You'll See                                |
+|------------------------|------------------------------------------------|---------------------------------------------------|
+| 🧪 Swagger API Demo    | [![Swagger](https://img.youtube.com/vi/IWxUstwvTEk/0.jpg)](https://youtu.be/IWxUstwvTEk) | Real-time API testing, JWT auth, RBAC             |
+| 🧠 Architecture Overview | [![Architecture](https://img.youtube.com/vi/vVDmVi2smUM/0.jpg)](https://youtu.be/vVDmVi2smUM?si=34-at-fu9_g35baf) | C4 architecture, service layers, async flow        |
 
-> ⚠️ *All videos are pre-recorded at 2x speed for rapid viewing. You can slow them down in your player if needed.*
+> ⚠️ *Videos are in 2x speed for fast demo. You can slow them down on YouTube if needed.*
 
-🖼️ [UI Screenshots (GIF)](media/platform-ui-prototype.gif)  
-📖 [System Summary PDF](docs/universe-system-summary.pdf)
+---
+
+## 🖼️ Screenshots
+
+![UI Screenshots (GIF)](media/platform-ui-prototype.gif)
+
+---
+
+## 📖 System Summary
+
+📄 [Read the Full System PDF Summary](docs/universe-system-summary.pdf)
 
 ---
 
@@ -62,10 +70,10 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 
 ## 📄 Summary
 
-- 🧠 Developed over 2 years as a graduation project
-- 🏛️ Deployed at University of Benghazi
-- 🔐 Closed-source for data protection & monetization opportunities
-- 🌍 Designed to reduce foreign dependence and support education in Libya
+- 🧠 Developed over 2 years as a graduation project  
+- 🏛️ Deployed at University of Benghazi  
+- 🔐 Closed-source for data protection & monetization opportunities  
+- 🌍 Designed to reduce foreign dependence and support education in Libya  
 
 ---
 
