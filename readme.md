@@ -94,5 +94,6 @@ Computer Science Graduate | Software Engineer | Competitive Programming & Roboti
 
 This is a **showcase repository only**.  
 The source code is **closed** due to privacy, security, and future commercialization.
+The UI is not final and for **testing purposes and showcase**, the features might be **extended**.
 
 ---
