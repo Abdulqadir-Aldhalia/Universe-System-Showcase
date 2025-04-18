@@ -150,23 +150,34 @@ With configurable modules, customizable UI/UX, and institution-specific role con
 - 🌍 Designed to reduce foreign dependence and support education globally
 
 <a id="author"></a>
-## 👤 Author
+## 👤 Author  
 
 **Abdulqadir Aldhalia**  
-Computer Science Graduate | Software Engineer | Competitive Programming & Robotics Enthusiast  
+Full-stack Architect & Backend Lead  
+
+As the primary developer, I was responsible for the entire system architecture, design, implementation, and documentation:
+
+- 🚀 **Infrastructure & Planning:** Designed the C4-model architecture, containerization strategy, and deployment pipelines.
+- 🏗️ **Backend Development:** Implemented all Spring Boot microservices, security layers (JWT, RBAC, PSK), database schemas (ERDs), and asynchronous workflows (RabbitMQ).
+- 🔐 **Security & Compliance:** Configured offline-first support, data sovereignty measures, and post-quantum-aware security planning.
+- 📊 **Project Management & Documentation:** Managed the overall development lifecycle, wrote the technical thesis, and prepared the system summary.
+  
 📫 [abdulqadir.aldhalia@hotmail.com](mailto:abdulqadir.aldhalia@hotmail.com)  
 🔗 [GitHub](https://github.com/Abdulqadir-Aldhalia)
-
 <a id="collaborators"></a>
-## 👥 Collaborators
+## 👥 Collaborators  
 
 **Abdulla Kamal**  
-Front-end Developer for the Universe System. Be sure to check out his profile:  
+Front-end Developer  
+
+- 🎨 Implemented the React-based user interfaces, Material UI components, and integrated frontend with the microservices via Axios.  
 🔗 [GitHub](https://github.com/Abdulla-kamal)
 
 <a id="disclaimer"></a>
 ## ⚠️ Disclaimer
 
 This is a **showcase repository only**; the source code is **closed** due to privacy, security, and future commercialization.
+
+
 The UI is not final and for **testing purposes and showcase**, the features might be **extended**.
 
