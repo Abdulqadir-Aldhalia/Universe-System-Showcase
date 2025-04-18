@@ -179,5 +179,5 @@ Front-end Developer
 This is a **showcase repository only**; the source code is **closed** due to privacy, security, and future commercialization.
 
 
-The UI is not final and for **testing purposes and showcase**, the features might be **extended**.
+The current UI demonstrates 40% of system capabilities and is a non-final version intended for testing and showcase purposes. All UI might be changed and Features may be extended in the final release.
 
