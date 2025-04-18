@@ -9,6 +9,7 @@
 > A modular, secure, and offline-first platform built for universities and academic institutions worldwide.  
 > **Showcase repository**—source code is private to protect sensitive data and future commercial potential.
 
+
 ## 🧭 Table of Contents
 
 1. [🌌 What Is Universe?](#what-is-universe)
@@ -25,7 +26,7 @@
 12. [👥 Collaborators](#collaborators)
 13. [⚠️ Disclaimer](#disclaimer)
 
-## 🌌 What Is Universe?
+## What Is Universe?
 
 **Universe** is a secure, scalable, and fully modular academic platform designed for universities and academic institutions of all sizes. It unifies fragmented academic workflows, eliminates the need for insecure third-party tools (such as **Google Classroom**, **WhatsApp**, **Telegram**, **Facebook Groups**, and **Google Forms**), and delivers a resilient, institution-owned ecosystem tailored for modern educational environments.
 
@@ -33,7 +34,7 @@ Originally developed and tested in the Faculty of Information Technology at the 
 
 Built on a **microservices architecture** using **Spring Boot**, **Docker**, **PostgreSQL**, and **RabbitMQ**, Universe provides robust service separation, faculty-level customization, and scalable deployment options through containerization and service discovery.
 
-## 🔑 Key Features And Capabilities
+## Key Features And Capabilities
 
 - **Microservices Architecture** 🧩  
   Built using Spring Boot and Docker with a clean separation of concerns and independent deployability.
@@ -79,7 +80,7 @@ Built on a **microservices architecture** using **Spring Boot**, **Docker**, **P
 - **Government-Ready Deployment** 🏛️  
   Fully compliant with Libya’s **National Education Strategy 2030**, but modular and customizable for global use.
 
-## 🌍 Who Can Use Universe?
+## Who Can Use Universe?
 
 While Universe was initially developed to address academic and sovereignty challenges in Libyan universities, its architecture is **completely generic**. It can be deployed in:
 
@@ -90,7 +91,7 @@ While Universe was initially developed to address academic and sovereignty chall
 
 With configurable modules, customizable UI/UX, and institution-specific role control, **Universe adapts to your ecosystem**, not the other way around.
 
-## 🎥 Showcase Videos (2× Speed)
+## Showcase Videos
 
 | 🎬 Topic                | 🎞️ Watch Here                                                                                                                                     | 📌 What You’ll See                                |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
@@ -99,15 +100,15 @@ With configurable modules, customizable UI/UX, and institution-specific role con
 
 > ⚠️ *Videos are in 2× speed for fast demo. Slow down in YouTube settings as needed.*
 
-## 📸 Screenshots
+## Screenshots
 
 ![UI Screenshots (GIF)](media/platform-ui-prototype.gif)
 
-## 📄 System Summary
+## System Summary
 
 📄 [Read the Full System PDF Summary](docs/universe-system-summary.pdf)
 
-## 🔍 Features At A Glance
+## Features At A Glance
 
 | Area                   | Highlights                                                                 |
 |------------------------|----------------------------------------------------------------------------|
@@ -118,7 +119,7 @@ With configurable modules, customizable UI/UX, and institution-specific role con
 | 👩‍🏫 Role-Based Access | Teachers, students, admins, advisors, researchers                          |
 | 🇱🇾 Data Sovereignty   | 100% hosted on Libyan infrastructure, compliant with national policy        |
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Backend:** Java (Spring Boot), JWT, Redis, PostgreSQL  
 - **Frontend:** React, Material UI  
@@ -126,34 +127,36 @@ With configurable modules, customizable UI/UX, and institution-specific role con
 - **Security:** Refresh tokens, blacklisting, encryption  
 - **Deployment:** Linux-based self-hosted, air-gapped optional mode
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 > The system is built using the **C4 model** with full separation between services and domains.
 
 ![System Architecture](media/universe-architecture.png)
 
-## 📝 Summary
+## Summary
 
 - 🧠 Developed over 2 years as a graduation project  
 - 🏛️ Deployed at the University of Benghazi  
 - 🔒 Closed-source for data protection & commercialization potential  
 - 🌍 Designed to reduce foreign dependence and support education globally
 
-## 👤 Author
+## Author
 
 **Abdulqadir Aldhalia**  
 Computer Science Graduate | Software Engineer | Competitive Programming & Robotics Enthusiast  
 📫 [abdulqadir.aldhalia@hotmail.com](mailto:abdulqadir.aldhalia@hotmail.com)  
 🔗 [GitHub](https://github.com/Abdulqadir-Aldhalia)
 
-## 👥 Collaborators
+## Collaborators
 
 **Abdulla Kamal**  
 Front-end Developer for the Universe System. Be sure to check out his profile:  
 🔗 [GitHub](https://github.com/Abdulla-kamal)
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a **showcase repository only**; the source code is **closed** due to privacy, security, and future commercialization.
+
+
 The UI is not final and for **testing purposes and showcase**, the features might be **extended**.
 
