@@ -57,7 +57,7 @@ It replaces fragmented systems (Google Classroom, WhatsApp, paper forms) with on
 ## 🛠️ Technical Stack
 
 - **Backend:** Java (Spring Boot), JWT, Redis, PostgreSQL  
-- **Frontend:** React, TailwindCSS  
+- **Frontend:** React, Material UI 
 - **Infrastructure:** Docker, Eureka Service Discovery, RabbitMQ  
 - **Security:** Refresh tokens, blacklisting, encryption  
 - **Deployment:** Linux-based self-hosted, air-gapped optional mode
@@ -88,7 +88,13 @@ Computer Science Graduate | Software Engineer | Competitive Programming & Roboti
 📫 [abdulqadir.aldhalia@hotmail.com](mailto:abdulqadir.aldhalia@hotmail.com)  
 🔗 [GitHub](https://github.com/Abdulqadir-Aldhalia)
 
+## 👥 collaborators 
+**Abdulla Kamal** 
+Who was responsible of implementing the front-end of the **Universe** system, make sure to visit his profile!
+🔗 [GitHub](https://github.com/Abdulla-kamal)
+
 ---
+
 
 ## ❗ Disclaimer
 
