@@ -68,6 +68,7 @@ Built on a **microservices architecture** using **Spring Boot**, **Docker**, **P
   - `UserProfileService`  
   - `TimeScheduleService`  
   - `EventNewsService`
+  - and more..
 
 - **Automated Academic Workflows** ⚙️  
   Handles GPA calculation, semester transitions, prerequisite checks, waitlisting, and dashboard generation.
