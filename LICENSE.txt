@@ -1,0 +1,33 @@
+Universe™ Proprietary License (UPL)
+© 2025 Abdulqadir Aldhalia. All rights reserved.
+
+1. Parties
+   1.1 Licensor: Abdulqadir Aldhalia
+   1.2 Licensee: Any individual or entity that installs, copies, or uses the Universe™ software ("Software").
+
+2. Grant of License
+   2.1 Subject to the terms herein, Licensor grants Licensee a non-exclusive, non-transferable, revocable license to use the Software solely for Licensee’s internal business purposes.
+   2.2 This license does not grant any rights to copy, modify, distribute, sublicense, or create derivative works based on the Software.
+
+3. Restrictions
+   3.1 Licensee shall not:
+       a) Reverse engineer, decompile, or disassemble the Software;
+       b) Rent, lease, sublicense, or otherwise transfer the Software;
+       c) Use the Software in any manner that violates applicable laws or regulations.
+
+4. Ownership and Intellectual Property
+   4.1 The Software, including all copies, and all intellectual property rights therein, remain the sole property of Licensor.
+   4.2 Licensee acknowledges that no title to the intellectual property is transferred under this license.
+
+5. Indemnification
+   5.1 Licensee agrees to indemnify, defend, and hold harmless Licensor against any claims, losses, liabilities, damages, or expenses arising from Licensee's breach of this Agreement.
+
+6. Termination
+   6.1 This License is effective until terminated.
+   6.2 Licensor may terminate this License immediately upon Licensee’s breach of any term. Upon termination, Licensee shall cease all use and destroy all copies of the Software.
+
+7. Governing Law
+   7.1 This Agreement shall be governed by and construed in accordance with the laws of Libya.
+   7.2 Any dispute arising under this Agreement shall be resolved exclusively in the competent courts of Libya.
+
+UNIVERSE™ is a registered trademark of **Abdulqadir Aldhalia**. Any other use of “Universe” as mark or name is strictly prohibited without prior written permission from the Licensor.
