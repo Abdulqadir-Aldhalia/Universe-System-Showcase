@@ -182,3 +182,9 @@ This is a **showcase repository only**; the source code is **closed** due to pri
 
 The current UI demonstrates 40% of system capabilities and is a non-final version intended for testing and showcase purposes. All UI might be changed and Features may be extended in the final release.
 
+## 📜 License
+
+This project is licensed under the proprietary Universe™.  
+See the [LICENSE](LICENSE.txt) file for full terms.
+
+
